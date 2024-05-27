@@ -1,0 +1,6 @@
+# S O L I D
+SRP - Принцип единственной ответственности (Single Responsibility Principle)
+OCP - Принцип открытости/закрытости (Open Closed Principle)
+LSP - Принцип подстановки Барбары Лисков (Liskov’s Substitution Principle)
+ISP - Принцип разделения интерфейса (Interface Segregation Principle)
+DIP - Принцип инверсии зависимостей (Dependency Inversion Principle)
